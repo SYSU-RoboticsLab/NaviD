@@ -1,3 +1,3 @@
-# NaviD
+# NaviDiffusor
 
 Comming soon!
