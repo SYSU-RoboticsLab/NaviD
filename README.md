@@ -160,10 +160,11 @@ When the robot is finishing navigating, kill the `pd_controller.py` script, and 
 
 ## Citing
 ```
-  @article{zeng2025navidiffusor,
+  @inproceedings{zeng2025navidiffusor,
   title={NaviDiffusor: Cost-Guided Diffusion Model for Visual Navigation},
   author={Zeng, Yiming and Ren, Hao and Wang, Shuhang and Huang, Junlong and Cheng, Hui},
-  journal={arXiv preprint arXiv:2504.10003},
+  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={11994--12001},
   year={2025}
 }
 ```
